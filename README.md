@@ -8,7 +8,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone -
+    $ git clone [-](https://github.com/awlqohhr/happybrithday.git)
 
     # Go into the repository
     $ cd happybirthday
