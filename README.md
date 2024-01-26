@@ -35,5 +35,5 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 > Github [@awlqhhr](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
 > Youtube [@awlqhhr](https://www.youtube.com/@awlqhhr/) &nbsp;&middot;&nbsp;
-> Instagram [@awlqhhr](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
+> Instagram [@awlqhhr](https://instagram.com/awlqhhr) &nbsp;&middot;&nbsp;
 > Linkedin [@awlqhhr](https://www.linkedin.com/in/fajarghifar/)
